@@ -1,8 +1,14 @@
-# React + Vite
+# goit-typescript-hw-02
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Виконай рефакторинг коду своєї домашньої роботи **№4 "Пошук зображень" **з блоку React, додавши в проект типізацію за допомогою TypeScript.
 
-Currently, two official plugins are available:
+Додай типи до:
+- компонентів,
+- пропсів,
+- стану,
+- хуків,
+- обробників подій,
+- HTTP-функцій,
+- будь-яких інших функцій.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Впевнися, що коректно типізуєш всі об'єкти, масиви, функції та інші частини свого коду. Не забувай про типи даних для HTTP-запитів, об'єктів стану та пропсів, а також будь-яких інших даних, які використовуються в твоєму додатку.
