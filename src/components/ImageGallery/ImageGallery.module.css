@@ -7,8 +7,7 @@
 }
 
 .cardItem {
-	border: 1px solid #646cff;
-	border-radius: 8px;
+	border: 1px solid #000000;
 	width: 300px;
 	background-color: #213547;
 	cursor: pointer;
